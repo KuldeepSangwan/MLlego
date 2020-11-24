@@ -1,6 +1,8 @@
 import pandas as pd
 from sklearn.manifold import TSNE
 
+import seaborn as sns
+
 import matplotlib.pyplot as plt
 
 
