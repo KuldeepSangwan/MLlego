@@ -1,1 +1,1 @@
-from MLlego.mllego import difmethods
+from MLlego.MLlego import Model
